@@ -1,4 +1,4 @@
-# Office-365-Teams-Allow
+# Microsoft-365-Groups-Right
 Allow or Block Teams creation into Microsoft Teams
 
 ## Step 1: Create a group for users who need to create Microsoft 365 groups
